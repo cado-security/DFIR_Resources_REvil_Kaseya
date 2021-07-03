@@ -1,0 +1,2 @@
+c:\kworking\agent.exe
+C:\kworking\agent.crt
