@@ -1,6 +1,9 @@
 # Malware Hashes
-# Via https://twitter.com/cyb3rops/status/1411091044100448258 and https://community.sophos.com/b/security-blog/posts/active-ransomware-attack-on-kaseya-customers
+# Via https://twitter.com/cyb3rops/status/1411091044100448258
+# https://community.sophos.com/b/security-blog/posts/active-ransomware-attack-on-kaseya-customers
+# https://blog.truesec.com/2021/07/04/kaseya-supply-chain-attack-targeting-msps-to-deliver-revil-ransomware/
 
+45AEBD60E3C4ED8D3285907F5BF6C71B3B60A9BCB7C34E246C20410CF678FC0C
 36a71c6ac77db619e18f701be47d79306459ff1550b0c92da47b8c46e2ec0752
 7ea501911850a077cf0f9fe6a7518859
 e1d689bf92ff338752b8ae5a2e8d75586ad2b67b
