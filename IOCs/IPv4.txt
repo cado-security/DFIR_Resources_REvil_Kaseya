@@ -1,0 +1,4 @@
+# IPv4
+# Via HuntressLabs https://www.reddit.com/r/msp/comments/ocggbv/crticial_ransomware_incident_in_progress/
+
+18.223.199.234
