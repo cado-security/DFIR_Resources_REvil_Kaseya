@@ -1,3 +1,8 @@
+# 
+# REvil Domains from Config File
+# Note the Keysa sample was set not to perform network communication
+# (https://twitter.com/R3MRUM/status/1412064882623713283) 
+#
 101gowrie.com
 123vrachi.ru
 12starhd.online
