@@ -1,8 +1,14 @@
 # Suspect Filenames
 # Via https://www.reddit.com/r/msp/comments/ocggbv/crticial_ransomware_incident_in_progress/
-c:\kworking\agent.exe
-C:\kworking\agent.crt
+# https://twitter.com/fr0gger_/status/1411956408677974018
+#
+# These include file paths for both endpoints (under c:\kworking) and the VSA server itself (under /Kaseya)
+
+/kworking/agent.exe
+/kworking/agent.crt
 /dl.asp
 /cgi-bin/KUpload.dll
 /userFilterTableRpt.asp
 /Kaseya/WebPages/ManagedFiles/VSATicketFiles/Screenshot.jpg
+/Kaseya/webpages/managedfiles/vsaticketfiles/agent.crt
+/Kaseya/webpages/managedfiles/vsaticketfiles/agent.exe
